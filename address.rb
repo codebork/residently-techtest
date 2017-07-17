@@ -1,9 +1,9 @@
 #!/usr/bin/ruby
 
 sample_data = {
-    "subpremise": "Flat 2",
+    "subpremise": "Apt 6",
     "house_number": "22",
-    "house_name": "The Mill",
+    "house_name": nil,
     "street_line_1": "Bailey Rd",
     "street_line_2": nil,
     "town_or_city": "Sale",
